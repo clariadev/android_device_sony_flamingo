@@ -428,3 +428,6 @@ vendor/lib/libwvm.so
 vendor/lib/libWVStreamControlAPI_L3.so
 vendor/lib/libxml.so
 
+vendor/lib/libfastcvopt.so
+vendor/lib/libfastcvadsp_stub.so
+
