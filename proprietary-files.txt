@@ -432,3 +432,5 @@ vendor/lib/libxml.so
 vendor/lib/libfastcvopt.so
 vendor/lib/libfastcvadsp_stub.so
 
+lib/hw/audio.primary.msm8226.so
+
