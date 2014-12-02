@@ -172,6 +172,7 @@ lib/libmorpho_posture_detect.so
 lib/libmorpho_scene_detector.so
 lib/libmorpho_super_resolution.so
 lib/libnfc-nci.so
+lib/hw/nfc_nci_pn547.default.so:lib/hw/nfc_nci_pn547.msm8226.so
 lib/libpin-cache.so
 lib/libreference-ril.so
 lib/libril.so
