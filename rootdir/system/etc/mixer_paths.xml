@@ -22,12 +22,14 @@
     <ctl name="TTY Mode" value="Off" />
     <ctl name="LINEOUT1 Volume" value="14" />
     <ctl name="LINEOUT2 Volume" value="14" />
-    <ctl name="HPHL Volume" value="14" />
-    <ctl name="HPHR Volume" value="14" />
-    <ctl name="RX1 Digital Volume" value="84" />
-    <ctl name="RX2 Digital Volume" value="84" />
-    <ctl name="RX3 Digital Volume" value="84" />
-    <ctl name="RX4 Digital Volume" value="84" />
+    
+    <ctl name="HPHL Volume" value="16" /><!--TELORION Basic Value HP 14 -->
+    <ctl name="HPHR Volume" value="16" /><!--TELORION Basic Value HP 14 -->
+    
+    <ctl name="RX1 Digital Volume" value="94" /><!--TELORION Basic Value 84-->
+    <ctl name="RX2 Digital Volume" value="94" /><!--TELORION Basic Value 84-->
+    <ctl name="RX3 Digital Volume" value="94" /><!--TELORION Basic Value 84-->
+    <ctl name="RX4 Digital Volume" value="94" /><!--TELORION Basic Value 84-->
     <ctl name="ADC1 Volume" value="12" />
     <ctl name="ADC2 Volume" value="12" />
     <ctl name="ADC3 Volume" value="12" />
